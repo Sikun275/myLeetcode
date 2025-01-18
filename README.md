@@ -5,4 +5,5 @@ my Leetcode collection
 Important questions:
   - 1639(H) number of ways to form a target string given a dictionary
   - 214(H) shortest palidrome (Rabin Karp)
-  - 2429（M） minimize XOR 
+  - 2429（M） minimize XOR
+  - 1368（H） minimum cost to make at least one valid path in a grid （didn't go throught it
