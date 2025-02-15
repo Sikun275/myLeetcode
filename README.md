@@ -7,4 +7,5 @@ Important questions:
   - 214(H) shortest palidrome (Rabin Karp)
   - 2429（M） minimize XOR
   - 1368（H） minimum cost to make at least one valid path in a grid （didn't go throught it
-  - 407 (H) trapping rain water 2 (Min-Heap & BFS 
+  - 407 (H) trapping rain water 2 (Min-Heap & BFS
+  - 2698 (M) use the constrains, doesn't need the general solution 
