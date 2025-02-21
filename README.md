@@ -5,6 +5,7 @@ my Leetcode collection
 Important questions:
   - 214(H) shortest palidrome (Rabin Karp)
   - 407 (H) trapping rain water 2 (Min-Heap & BFS
+  - 1261 (M) find elements in contaminated binary tree, use of self.
   - 1368（H） minimum cost to make at least one valid path in a grid （didn't go throught it
   - 1639(H) number of ways to form a target string given a dictionary
   - 1980 (M) find unique binary string, conver bin to int, then back to bin, key is how to maintain the length of the final bin being the same as before
