@@ -10,6 +10,7 @@ Important questions:
   - 1639(H) number of ways to form a target string given a dictionary
   - 1749 (M) Maximum Absolute Sum of Any Subarray (prefix_sum, prefix_min, prefix_max
   - 1980 (M) find unique binary string, conver bin to int, then back to bin, key is how to maintain the length of the final bin being the same as before
+  - 2115 (M) find all recipes from given supplies, DFS + graph
   - 2375 (M) construct smallest number from DI string, simple answer but need a lot of thinking to get this 
   - 2429（M） minimize XOR
   - 2698 (M) use the constrains, doesn't need the general solution
