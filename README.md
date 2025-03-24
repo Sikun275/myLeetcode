@@ -4,6 +4,7 @@ my Leetcode collection
 
 Important questions:
   - 214(H) shortest palidrome (Rabin Karp)
+  - 264(M) ugly number 2, factor of 2, 3, 5; min_heap or DP
   - 407 (H) trapping rain water 2 (Min-Heap & BFS
   - 1261 (M) find elements in contaminated binary tree, use of self.
   - 1368（H） minimum cost to make at least one valid path in a grid （didn't go throught it
