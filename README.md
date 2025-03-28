@@ -14,5 +14,6 @@ Important questions:
   - 2115 (M) find all recipes from given supplies, DFS + graph
   - 2375 (M) construct smallest number from DI string, simple answer but need a lot of thinking to get this 
   - 2429（M） minimize XOR
+  - 2503(H) Maximum Number of Points From Grid Queries, seems hard, once think clear, it's just ok
   - 2698 (M) use the constrains, doesn't need the general solution
 
