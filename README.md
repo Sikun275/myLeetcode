@@ -16,4 +16,5 @@ Important questions:
   - 2429（M） minimize XOR
   - 2503(H) Maximum Number of Points From Grid Queries, seems hard, once think clear, it's just ok
   - 2698 (M) use the constrains, doesn't need the general solution
+  - 2845 (M) Count of Interesting Subarrays, pefix instead of sliding window
 
