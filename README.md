@@ -3,6 +3,7 @@ my Leetcode collection
   Everday: daily question + 1 medium (+ 1 hard)
 
 Important questions:
+  - 146(M) LRU(least recent used) cache: deque, defualtdict, OrderedDict, Counter explained
   - 214(H) shortest palidrome (Rabin Karp)
   - 264(M) ugly number 2, factor of 2, 3, 5; min_heap or DP
   - 407 (H) trapping rain water 2 (Min-Heap & BFS
